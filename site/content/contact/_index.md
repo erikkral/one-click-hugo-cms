@@ -1,10 +1,19 @@
 ---
 title: Contact test
 logo: /img/logo.svg
-contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+contact_entries: []
 ---
-T﻿est 1234
+# Contactgegevens
+
+Telefoon: 06 29 32 84 99
+E-mail: erik@erikkral.nl
+
+# Organisatiegegevens
+
+KvK 85718394
+
+
+BTW NL004137950B24
+
+
+IBAN NL62BUNQ2070438147
