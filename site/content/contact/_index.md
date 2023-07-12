@@ -1,7 +1,6 @@
 ---
 title: Contactgegevens
 logo: /img/logo.svg
-contact_entries: []
 ---
 **Contactgegevens**
 
