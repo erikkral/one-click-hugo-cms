@@ -10,14 +10,10 @@ intro:
   text: >-
     Een eenmaal aangeschafte of gemaakte IT-oplossing (software en hardware)
     moet meeveranderen met de tijd. Dit is de kern van beheer. Goed beheer zorgt
-    ervoor dat de IT blijft draaien zoals u verwacht:
-
-
-    Altijd passend blijft bij uw organisatie: IT verandert mee met nieuwe ontwikkelingen of projecten in uw organisatie.
-
-    Altijd tevreden gebruikers: vragen of wensen worden opgelost of beantwoord, verstoringen zijn minimaal.
-
-    Altijd passend binnen budget: beheer zorgt ervoor dat de kosten binnen de gestelde kaders blijven.
+    ervoor dat de IT blijft draaien zoals u verwacht:\
+     Altijd passend blijft bij uw organisatie: IT verandert mee met nieuwe ontwikkelingen of projecten in uw organisatie.\
+     Altijd tevreden gebruikers: vragen of wensen worden opgelost of beantwoord, verstoringen zijn minimaal.\
+     Altijd passend binnen budget: beheer zorgt ervoor dat de kosten binnen de gestelde kaders blijven.\
 beheer:
   heading: Vormen van beheer
   text: >-
